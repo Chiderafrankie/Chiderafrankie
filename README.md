@@ -5,11 +5,10 @@
 
 ### ⚡ About Me
 
-💻 I'm Frankie Chidera — a curious and committed Frontend Developer in progress  
-📝 I simplify JavaScript and web concepts through technical writing  
+💻 I'm Frankie Chidera, a curious and committed Frontend Developer in progress  
+📝 I simplify web concepts through technical writing  
 🧠 I love breaking down what I learn so beginners like me never feel lost  
-🎧 I'm also a passionate sound engineer — when I’m not coding, I’m mixing audio  
-📚 I believe if I'm not coding, I'm reading or building something that stretches my mind  
+📚 I believe if I'm not coding, I'm reading,  building something that stretches my mind or a sound engineer.  
 
 ---
 
@@ -21,8 +20,8 @@
 ---
 
 ### 🛠️ What I’m Working On
-- Publishing 2 blog posts weekly on JavaScript and Open Source
-- Sharing my journey on [Twitter](https://twitter.com/yourhandle) and [LinkedIn](https://linkedin.com/in/yourname)
+- Publishing 2 blog posts weekly on eb concepts and Open Source
+- Sharing my journey on [Twitter](https://twitter.com/frankiechidera) and [LinkedIn](https://linkedin.com/in/chiderafrankie)
 - Contributing to beginner-friendly OSS projects
 
 ---
@@ -33,9 +32,9 @@ I'm learning in public, and documenting the messy middle so others can learn too
 ---
 
 ### 📫 Connect with Me
-- Blog: [yourblog.com](https://https://linktr.ee/Chiderafrankie)
-- Twitter: [@yourhandle](https://twitter.com/frankiechidera)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chiderafrankie)
+- Blog: [https://linktr.ee/Chiderafrankie](https://https://linktr.ee/Chiderafrankie)
+- Twitter: [@frankiechidera](https://twitter.com/frankiechidera)
+- LinkedIn: [linkedin.com/in/chiderafrankie](https://linkedin.com/in/chiderafrankie)
 
 ---
 
