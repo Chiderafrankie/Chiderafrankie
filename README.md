@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ What I’m Working On
-- Publishing 2 blog posts weekly on eb concepts and Open Source
+- Publishing 2 blog posts weekly on web concepts and Open Source
 - Sharing my journey on [Twitter](https://twitter.com/frankiechidera) and [LinkedIn](https://linkedin.com/in/chiderafrankie)
 - Contributing to beginner-friendly OSS projects
 
