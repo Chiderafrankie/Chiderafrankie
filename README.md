@@ -5,18 +5,10 @@
 
 ### ⚡ About Me
 
-💻 I'm Frankie Chidera, a curious and committed Frontend Developer in progress  
+💻 I'm Frankie Chidera, a curious and committed Frontend Developer 
 📝 I simplify web concepts through technical writing  
-🧠 I love breaking down what I learn so beginners like me never feel lost  
+🧠 I love breaking down what I learn   
 📚 I believe if I'm not coding, I'm reading,  building something that stretches my mind or a sound engineer.  
-
----
-
-### 🌱 Currently Learning
-- JavaScript fundamentals (deep diving into logic and problem-solving)
-- React (reusable components, hooks, and dynamic UIs)
-- Open Source contribution (Git, GitHub, pull requests, documentation)
-
 ---
 
 ### 🛠️ What I’m Working On
